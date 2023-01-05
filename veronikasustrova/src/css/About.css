@@ -1,0 +1,18 @@
+.about-body {
+    display: flex;
+    margin: 0 40vmin 0 40vmin;
+}
+
+.about-left {
+    text-align: left;
+    padding: 5vmin 5vmin 5vmin 5vmin;
+}
+
+.about-right {
+    float: right;
+}
+
+.headshot {
+    height: 40vmin;
+}
+
