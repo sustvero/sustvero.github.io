@@ -1,12 +1,15 @@
 
 
+
 .about-body {
     display: flex;
-    padding: 5vmin 5vmin 5vmin 5vmin;
+    padding: 0 5vmin 5vmin 5vmin;
 }
 
 .about-left {
     text-align: left;
+    padding-right: 10vmin;
+    padding-top: 4vmin;
 }
 
 .about-right {
@@ -15,5 +18,6 @@
 
 .headshot {
     height: 40vmin;
+    border-radius: 6vmin;
 }
 
