@@ -16,10 +16,18 @@ function App() {
       <header className="App-header">
         <Header />
       </header>
+      <div className="section-div">
       <About />
+      </div>
+      <div className="section-div">
       <Experience />
+      </div>
+      <div className="section-div">
       <Projects />
+      </div>
+      <div className="section-div">
       <Contact />
+      </div>
       <Footer />
     </div>
   );

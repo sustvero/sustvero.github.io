@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-color: #282c34;
+  color: white;
 }
 
 .App-logo {
@@ -35,4 +37,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.section-div {
+  background-color: white;
+  color: #282c34;
+  margin: 10vmin 15vmax;
+  padding: 6vmin 2vmax 7vmin 2vmax;
+  border-radius: 50px;
+
 }

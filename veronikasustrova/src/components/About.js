@@ -4,14 +4,16 @@ import "../css/About.css"
 
 const About = () => {
   return (
+    <div className="section">
     <div className="about">
         <h2>About Me</h2>
        
         <div className="about-body">
         <div className="about-left">
+          <p>My name is Veronika Sustrova and I'm a third-year Computer Science student at the University of Waterloo!</p>
             <p>Through my previous internships, projects, and hackathons, I’ve gained valuable experience in UI development and general software engineering.
             I’m fascinated by the creative possibilities tech offers, particularly how tech can be used for social good 🌱</p>  
-            <p>In my free time, I love to play piano, work out, explore fashion, and game :) </p>
+            <p>Outside of work, my interests include piano, fitness, fashion, and the occasional game. </p>
             
         </div>
         <div className="about-right">
@@ -21,6 +23,7 @@ const About = () => {
         </div>
         </div>
 
+    </div>
     </div>
   )
 }
