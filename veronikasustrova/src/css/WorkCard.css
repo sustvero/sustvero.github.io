@@ -1,0 +1,12 @@
+.company-icon {
+    height: 20vmin;
+}
+
+.icon {
+    float: left;
+    padding: 5vmin 3vmax;
+}
+
+.text-info {
+    text-align: left;
+}
