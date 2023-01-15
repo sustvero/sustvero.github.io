@@ -10,9 +10,8 @@ const ProjectCard = ({
 }) => {
   return (
     <div>
-      <h5>{name}</h5>
+      <h4>{name} | {tools}</h4>
       <img className="project-img" src={image} alt={name}></img>
-      <h6>{tools}</h6>
       <p>{description}</p>
       <a href={link}><button>View Project</button></a>
     </div>
