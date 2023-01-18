@@ -1,6 +1,7 @@
 import React from 'react'
 import WorkCard from './WorkCard'
 import WSIB from '../assets/wsib.jpg'
+import WSIBLab from '../info/workExperience'
 
 const Experience = () => {
   return (

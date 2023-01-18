@@ -18,9 +18,9 @@ const ProjectCard = ({
       <div className="img-container" 
         onMouseOver={() => setStyle({display: 'flex'})}
         onMouseLeave={() => setStyle({display: 'none'})}>
-        <button className="view-btn" style={style}><a href={link}>View Project</a> </button>
-      <img className="project-img" src={image} alt={name}>
-      </img>
+        
+      <a href={link}><img className="project-img" src={image} alt={name}></img></a>
+      
       </div>
       <p>{description}</p>
     </div>

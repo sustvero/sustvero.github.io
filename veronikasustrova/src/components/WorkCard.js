@@ -20,7 +20,7 @@ const WorkCard = ({
         <h4>{company} | {title} </h4>
         
         <h5>{tools}</h5>
-        <p>{description}</p>
+        <div>{description}</div>
       </div>
     </div>
   )
