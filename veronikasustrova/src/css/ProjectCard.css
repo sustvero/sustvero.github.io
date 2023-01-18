@@ -1,6 +1,27 @@
+.card-container {
+    align-items: center;
+}
 
+.img-container {
+    position: relative;
+    margin: auto;
+    height: 30vmin;
+    border-radius: 3vmin;
+}
+
+.view-btn {
+    position: absolute;
+    left: 40%;
+    top: 40%;
+    
+}
 
 .project-img {
     height: 30vmin;
+    margin: auto;
     border-radius: 3vmin;
+}
+
+.project-img:hover {
+    background-color: rgba(0, 0, 0, 0.8);
 }

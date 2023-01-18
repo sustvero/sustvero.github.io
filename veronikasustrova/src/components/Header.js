@@ -1,4 +1,6 @@
 import React from 'react'
+import Button from 'react-bootstrap/Button'
+
 
 const Header = () => {
   return (
@@ -7,7 +9,7 @@ const Header = () => {
             <div className="header-text">
                 <h1>Hi! I'm Veronika.</h1>
                 <h4>I aim to build software that makes the world a safe, accessible, and inclusive place.</h4>
-                <button>Let's Connect</button>
+                <Button variant="outline-light">Light</Button>
             </div>
             
         </div>
