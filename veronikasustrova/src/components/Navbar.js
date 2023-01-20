@@ -1,5 +1,7 @@
 import React from 'react'
 import "../css/Navbar.css"
+import { Link } from 'react-scroll'
+
 
 const Navbar = () => {
   return (
@@ -8,19 +10,19 @@ const Navbar = () => {
         
                 
                     <button>
-                    About
+                    <Link to="about-me" smooth={true} offset={-50}>About</Link>
                     </button>
                 
                     <button>
-                    Experience
+                    <Link to="my-experience" smooth={true} offset={-50}>Experience</Link>
                     </button>
                 
                     <button>
-                    Projects
+                    <Link to="my-projects" smooth={true} offset={-50}>Projects</Link>
                     </button>
                 
                     <button>
-                    Contact
+                    <Link to="contact-me" smooth={true} offset={-50}>Contact</Link>
                     </button>
                 
             

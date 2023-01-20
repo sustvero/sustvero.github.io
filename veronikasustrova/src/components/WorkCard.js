@@ -20,7 +20,15 @@ const WorkCard = ({
         <h4>{company} | {title} </h4>
         
         <h5>{tools}</h5>
-        <div>{description}</div>
+        <div>
+          <ul>
+            <li>Task 1</li>
+            <li>Task 2</li>
+            <li>Task 3</li>
+          </ul>
+
+        </div>
+        
       </div>
     </div>
   )

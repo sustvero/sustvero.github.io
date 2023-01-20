@@ -12,7 +12,7 @@ const Experience = () => {
         tools="Flutter, React, Node.js, MongoDB"
         description="Developed and demoed a cross-platform mobile application POC using Flutter, Node.js, and MongoDB, aiming to enable WSIB's client base of 5 million to request compensation for workplace injuries through a dynamic mobile intake form
         Configured an uploading feature using React.js for the Lab's Hiring Helper application, allowing admin users to upload co-op resume packages while specifying which university and role they are from
-        Conducted and reviewed 7 technical interviews for incoming developers, and organized 12 Lab-wide Inclusion Discussions to facilitate interactive conversations regarding current social issues
+        Conducted and reviewed 7 technical interviews for incoming developers, and organized 12 Lab-wide Inclusion Discussions to facilitate interactive conversations regarding current social issues.
         "/>
     </div>
   )

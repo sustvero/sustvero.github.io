@@ -1,3 +1,23 @@
+.arrow {
+    height: 4vmin;
+    margin: auto;
+    position: absolute;
+}
+
+.arrow-prev {
+    float: left;
+    left: 4vmax;
+    top: -2vmin;
+}
+
+.arrow-next {
+    float: right;
+    top: -2vmin;
+    right: 4vmax;
+
+    
+}
+
 .carousel-container {
     display: flex;
     flex-direction: column;
