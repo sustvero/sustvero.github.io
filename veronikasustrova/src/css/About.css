@@ -3,7 +3,7 @@
 
 .about-body {
     display: flex;
-    padding: 0 5vmin 5vmin 5vmin;
+    padding: 5vmin;
 }
 
 .about-left {

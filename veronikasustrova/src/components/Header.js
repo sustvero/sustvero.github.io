@@ -1,6 +1,5 @@
 import React from 'react'
-import Button from 'react-bootstrap/Button'
-
+import "../css/Header.css"
 
 const Header = () => {
   return (
@@ -9,7 +8,7 @@ const Header = () => {
             <div className="header-text">
                 <h1>Hi! I'm Veronika.</h1>
                 <h4>I aim to build software that makes the world a safe, accessible, and inclusive place.</h4>
-                <Button variant="outline-light">Let's Connect</Button>
+                <a href="https://www.linkedin.com/in/sustvero/"><button className="connect-btn">Let's Connect</button></a>
             </div>
             
         </div>
