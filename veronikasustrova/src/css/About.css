@@ -14,10 +14,12 @@
 
 .about-right {
     float: right;
+    margin-bottom: 6vmin;
 }
 
 .headshot {
     height: 40vmin;
     border-radius: 6vmin;
+    margin-bottom: 2vmin;
 }
 
