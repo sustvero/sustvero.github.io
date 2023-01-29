@@ -1,12 +1,23 @@
 .company-icon {
-    height: 20vmin;
+    height: 10vmin;
 }
 
 .icon {
     float: left;
-    padding: 5vmin 3vmax;
+    padding: 8vmin 3vmax;
 }
 
 .text-info {
     text-align: left;
+    padding: 5vmin 3vmax;
+}
+
+.work-container {
+    border-style: dotted;
+    margin-bottom: 7vmin;
+    margin-left: 10vmin;
+    margin-right: 10vmin;
+    border-radius: 20px;
+    border-color: #c8c8c8;
+    
 }

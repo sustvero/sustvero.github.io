@@ -17,13 +17,13 @@ const items = [
     name="Whatoodo?"
     image={Whatoodo}
     tools="Kotlin, JavaFX, MySQL, SpringBoot"
-    description="Never miss a deadline again."
+    description="A complex to-do list desktop application that allows authenticated users to create and edit tasks with categories, priorities, due dates, and tags."
     link="https://www.youtube.com/watch?v=6tTm47t61os"
   />,
   <ProjectCard 
     name="Nourish" 
     image={Nourish} 
-    tools="React" 
+    tools="React.js" 
     description="A platform for finding and sharing healthy recipes."/>,
   <ProjectCard
     name="GoodDay"

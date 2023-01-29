@@ -3,18 +3,19 @@
 
 .about-body {
     display: flex;
-    padding: 5vmin;
+    padding: 0 5vmax 4vmax 5vmax;
 }
 
 .about-left {
     text-align: left;
-    padding-right: 10vmin;
-    padding-top: 4vmin;
+    padding-top: 1vmin;
+    padding-right: 6vmax;
 }
 
 .about-right {
     float: right;
-    margin-bottom: 6vmin;
+    margin-bottom: 4vmin;
+    padding-top: 2vmin;
 }
 
 .headshot {
