@@ -1,2 +1,2 @@
 # veronikasustrova.github.io
-Personal website repository
+Personal website created from scratch.
