@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f1214ab.css",
+    "main.js": "/static/js/main.53dbab11.js",
+    "static/js/787.909c0589.chunk.js": "/static/js/787.909c0589.chunk.js",
+    "static/media/nourish.png": "/static/media/nourish.cb6b75f9c6387b76d4eb.png",
+    "static/media/penumbria.png": "/static/media/penumbria.13115f6cc005e073ebac.png",
+    "static/media/headshot.jpg": "/static/media/headshot.f04f3b559854248a7b32.jpg",
+    "static/media/goodday-img.png": "/static/media/goodday-img.cc71272a684d6937d67e.png",
+    "static/media/whatoodo-img.png": "/static/media/whatoodo-img.79f94448db2abfe89371.png",
+    "static/media/kaleidescape-logo.png": "/static/media/kaleidescape-logo.d54c756e3deeaa3004d9.png",
+    "index.html": "/index.html",
+    "main.0f1214ab.css.map": "/static/css/main.0f1214ab.css.map",
+    "main.53dbab11.js.map": "/static/js/main.53dbab11.js.map",
+    "787.909c0589.chunk.js.map": "/static/js/787.909c0589.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f1214ab.css",
+    "static/js/main.53dbab11.js"
+  ]
+}
