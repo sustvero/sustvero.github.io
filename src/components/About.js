@@ -10,10 +10,12 @@ const About = () => {
        
         <div className="about-body">
         <div className="about-left">
-          <p>My name is Veronika Sustrova and I'm a third-year Computer Science student at the University of Waterloo!</p>
-            <p>Through my previous internships, projects, and hackathons, I’ve gained valuable experience in UI development and general software engineering.
-            I’m fascinated by the creative possibilities tech offers, particularly how tech can be used for social good 🌱</p>  
-            <p>I'm also passionate about supporting underrepresented communities in tech! I've been involved in the school community as the Secretary of WiCS Waterloo and a Logistics Organizer at Tech+ UW.</p>
+          <p>Hi! My name is Veronika Sustrova and I'm a senior Computer Science student at the University of Waterloo.</p>
+            <p>I've had experience in various software engineering areas, including full-stack development, low-level database development, mobile development, privacy engineering, and QA.
+            I’m fascinated by the creative possibilities tech offers, particularly those that create a positive social impact.
+            </p>  
+            <p>I'm also passionate about supporting underrepresented communities in tech! I've been involved in communities such as Waterloo Women in Computer Science (WiCS) and Tech+ UW.</p>
+            <p>📍 Currently, I'm in Los Gatos, California interning on the Privacy and Data Protection team at Netflix!</p>
             
         </div>
         <div className="about-right">
